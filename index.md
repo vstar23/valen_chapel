@@ -6,7 +6,7 @@ layout: default
 # Analysis for Continuous Improvement
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="valen_chapel/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="personal-site/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 *For this exercise, students were tasked with evaluated class survey data to evaluate how Comp 110 could be improved.*
 
