@@ -30,4 +30,8 @@ Ultimately, I selected proposal number 1 as I anticipated the survey data would 
 
 First, I aimed to identify the composition of different student majors in the class. I checked student responses asking them to indicate if they intend on pursuing a major in computer science and generated a bar graph of the results shown below. It clearly revealed that although Comp 110 is a necesary course for computer science majors, the majority of students in the class do not plan on majoring in this field.
 
-<img src="valen_chapel/static/imgs/compmajorstats.png" alt="Image of comp major stats bar graph. "  width="500"/>
+<img src="static/imgs/compmajorstats.png" alt="Image of comp major stats bar graph. "  width="500"/>
+
+Additionally, I wnated to determine which were the most popular majors outside of computer science. To do this, I analyzed student responses to the question asking for their major and found the total number of responses for each major. Then, I generated another bar graph depicting the amount of students for each major that had at least 10 responses.
+
+<img src="static/imgs/majorstats.png" alt="Image of comp major stats bar graph. "  width="500"/>
