@@ -42,13 +42,13 @@ Next, I wanted to explore how students' agreement to the claim "Student believes
 
 <img src="static/imgs/recommendvalue.png" alt="Image of recommendation and valuable line plot. "  width="500"/>
 
-<img src="static/imgs/interestvalue.png" alt="Image of interest and valauble line plot. "  width="500"/>
+<img src="static/imgs/interestingvalue.png" alt="Image of interest and valauble line plot. "  width="500"/>
 
 ## Relationship between Value and Major
 
 Lastly, I wanted to determine how students with majors outside of computer science, especially the most popular majors like biology and neuroscience, rated the value of Comp 110 for their future. If students with life science majors primarily ranked the value of the course to their future low, this would support my proposed improvement of including more science-based applications of computer science in the course. However, as shown below, the majority of majors generally found the course to be highly valuable. The lowest values were selected by Nutrition and HPM majors (median "valuable" score less than or equal to 4), while Biology and Neuroscience majors had a slightly higher score for the perception of the course value (median "valuable score around 5). Students with majors such as Computer Science, Biomedical Engineering, Data Science, Chemistry, Physics, and Statistics and Analytics tend to consider the course more valuable (median "valuable score around 6.) 
 
-<img src="static/imgs/majorvalue.png" alt="Image of major vs value box plot. "  width="500"/>
+<img src="static/imgs/majorvalue.png" alt="Image of major vs value box plot. "  width="1000"/>
 
 ## Conclusion
 
