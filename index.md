@@ -34,7 +34,7 @@ First, I aimed to identify the composition of different student majors in the cl
 
 Additionally, I wnated to determine which were the most popular majors outside of computer science. To do this, I analyzed student responses to the question asking for their major and found the total number of responses for each major. Then, I generated another bar graph depicting the amount of students for each major that had at least 10 responses. This revealed that a majority of the students in the class have majors in the field of life sciences, including **biology, neuroscience, and environmental sciences**.
 
-<img src="static/imgs/majorstats.png" alt="Image of comp major stats bar graph. "  width="500"/>
+<img src="static/imgs/majorsstats.png" alt="Image of comp major stats bar graph. "  width="500"/>
 
 ## Relationship Between Value and Interest
 
