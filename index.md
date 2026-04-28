@@ -8,7 +8,7 @@ layout: default
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
-*For this exercise, students were tasked with evaluated class survey data to evaluate how Comp 110 could be improved.*
+*For this exercise, students were tasked with evaluating class survey data to explore how Comp 110 could be improved.*
 
 ## Proposed Improvement
 
